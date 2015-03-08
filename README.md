@@ -4,7 +4,7 @@ Removes files and/or folders matching a [glob](https://github.com/isaacs/node-gl
 
 ## Install
 
-`npm install --save mosaic-gulp-task-clean`
+`npm install --save-dev mosaic-gulp-task-clean`
 
 ## Usage
 
