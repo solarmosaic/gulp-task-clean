@@ -15,9 +15,7 @@ var gulp = require("gulp");
 var clean = require("mosaic-gulp-task-clean");
 
 // Clean the build folder in preparation of a new build
-gulp.task("clean", clean({
-  glob: "public"
-}));
+gulp.task("clean", clean("public"));
 ```
 
 ## License
