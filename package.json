@@ -1,0 +1,25 @@
+{
+  "name": "mosaic-gulp-clean-task",
+  "version": "0.3.0",
+  "description": "Gulp task to remove files and folders",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/solarmosaic/gulp-clean-task"
+  },
+  "author": {
+    "name": "Solar Mosaic, Inc.",
+    "email": "support@solarmosaic.com",
+    "url": "http://solarmosaic.com/"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/solarmosaic/gulp-clean-task/issues"
+  },
+  "homepage": "https://github.com/solarmosaic/gulp-clean-task",
+  "dependencies": {
+  }
+}
