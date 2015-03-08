@@ -1,14 +1,14 @@
 {
-  "name": "mosaic-gulp-clean-task",
-  "version": "0.3.0",
-  "description": "Gulp task to remove files and folders",
+  "name": "mosaic-gulp-task-clean",
+  "version": "1.0.0",
+  "description": "Gulp task that removes files and/or folders matching a glob pattern.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/solarmosaic/gulp-clean-task"
+    "url": "https://github.com/solarmosaic/gulp-task-clean"
   },
   "author": {
     "name": "Solar Mosaic, Inc.",
@@ -17,9 +17,10 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/solarmosaic/gulp-clean-task/issues"
+    "url": "https://github.com/solarmosaic/gulp-task-clean/issues"
   },
-  "homepage": "https://github.com/solarmosaic/gulp-clean-task",
+  "homepage": "https://github.com/solarmosaic/gulp-task-clean",
   "dependencies": {
+    "del": "^1.1.1"
   }
 }
