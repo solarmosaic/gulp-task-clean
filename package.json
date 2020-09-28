@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/solarmosaic/gulp-task-clean",
   "dependencies": {
-    "del": "^1.1.1"
+    "del": "^6.0.0"
   }
 }
